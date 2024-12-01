@@ -67,6 +67,7 @@ Database: PostgreSQL, MySQL, or MongoDB for data management.
 
 
 5.Implementation Phases:
+
 Planning:
 Define objectives, target audience, and key features.
 Gather requirements from stakeholders.
